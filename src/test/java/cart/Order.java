@@ -5,5 +5,6 @@ public class Order {
 		for(int i=0;i<=5;i++) {
 			System.out.println(i);
 		}
+		//hakro avnge nakkan
 	}
 }
